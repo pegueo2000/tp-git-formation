@@ -1,2 +1,2 @@
-# TP Git Formation - version finale (U1 + U2)
+# TP Git Formation - Projet Login/Logout
 "Auteur: U2"
